@@ -23,7 +23,7 @@ Student may:
 
  [GolfBenchmark](docs/)
   - [**ER**](https://drive.google.com/open?id=0B4IFmKbaUADBZXpONUxTRGcwZUE)
-  - [**Project setup**](project_setup.md)
+  - [**Project setup**](Project_setup.md)
   
 RESPONSIBILITY MATRIX
 ---------------------
