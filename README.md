@@ -1,5 +1,4 @@
 # MY Golf Benchmark  
-
 This project have created to simplify communication between the golfer and the instructor.
 Main features on project:
 * Book lessons
@@ -22,6 +21,11 @@ Student may:
 * Change own profile
 * Add card for payment
 
+ [GolfBenchmark](docs/)
+  - [**Vocabulary**](vocabulary.md)
+  - [**ER**](ER.md)
+  - [**Project setup**](project_setup.md)
+  
 RESPONSIBILITY MATRIX
 ---------------------
 - Tech Lead, Architect @shaleynikov
@@ -36,7 +40,6 @@ RESPONSIBILITY MATRIX
  - Issue Tracking: https://github.com/riftsolutions/my-golf-benchmark/issues
  - Wireframes: https://www.dropbox.com/s/78kcth4r34gd0nq/golf%20benchmark%20-%20v8%20%281%29.pdf?dl=0
  - Infrastructure: https://mygolfbenchmark.herokuapp.com/
- [**ER**](docs/outernets/ER.md)
 ## Development
  - https://app.mygolfbenchmark.com/
 
