@@ -28,7 +28,6 @@ Student may:
 RESPONSIBILITY MATRIX
 ---------------------
 - Tech Lead, Architect @shaleynikov
-- Lead Dev @morfmorf
 - Frontend Dev @K-AA
 - Frontend Dev @pavelpashkovsky
 - Backend Dev @Yankee-by
