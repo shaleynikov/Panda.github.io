@@ -22,6 +22,19 @@ Student may:
 * Change own profile
 * Add card for payment
 
+RESPONSIBILITY MATRIX
+---------------------
+- Tech Lead, Architect @shaleynikov
+- Lead Dev @morfmorf
+- Frontend Dev @K-AA
+- Frontend Dev @pavelpashkovsky
+- Backend Dev @Yankee-by
 
-PROJECT DOCUMENTATION
------------------------
+# INFRASTRUCTURE
+## Development
+
+ - Issue Tracking: https://github.com/riftsolutions/my-golf-benchmark/issues
+ - Wireframes: https://www.dropbox.com/s/78kcth4r34gd0nq/golf%20benchmark%20-%20v8%20%281%29.pdf?dl=0
+
+
+
