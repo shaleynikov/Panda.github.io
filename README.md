@@ -22,7 +22,6 @@ Student may:
 * Add card for payment
 
  [GolfBenchmark](docs/)
-  - [**Vocabulary**](vocabulary.md)
   - [**ER**](https://drive.google.com/open?id=0B4IFmKbaUADBZXpONUxTRGcwZUE)
   - [**Project setup**](project_setup.md)
   
